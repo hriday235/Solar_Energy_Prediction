@@ -105,12 +105,3 @@ Contributions are welcome\! Please fork the repository and submit a pull request
 This project is licensed under the [MIT License](https://www.google.com/search?q=LICENSE).
 
 ```
-
-### How to use this:
-1.  Create a new file in your project folder named `README.md`.
-2.  Copy the code block above.
-3.  Paste it into the file and save.
-4.  When you push this to GitHub, it will look organized with headers and bullet points.
-
-**Would you like me to generate the `requirements.txt` file content to match the libraries listed above?**
-```
