@@ -1,4 +1,4 @@
- ☀️ Solar Energy Power Prediction
+# ☀️ Solar Energy Power Prediction
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Regression-green)
