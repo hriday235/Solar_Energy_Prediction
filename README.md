@@ -1,9 +1,4 @@
-It looks like the previous output lost its formatting when viewed or pasted, turning into a "wall of text." That happens if the Markdown line breaks aren't preserved.
-
-Here is the **corrected version** inside a code block. You can click "Copy" on the top right of the block and paste it directly into a file named **`README.md`** in your repository. GitHub will automatically render it into the pretty format with headers and lists.
-
-````markdown
-# ☀️ Solar Energy Power Prediction
+ ☀️ Solar Energy Power Prediction
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Regression-green)
